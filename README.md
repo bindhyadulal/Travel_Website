@@ -5,11 +5,11 @@ A  **travel website** built with **HTML, CSS, and Font Awesome**. It showcases  
 🔗 **Live Demo:** [Travel Website](https://bindhyadulal.github.io/Travel_Website/)  
 
 ## 🔹 Pages Overview  
-- 🏠 **Home Page:**  
+- 🏠 **Home Page**  
 
-- ℹ️ **About Page:**  
+- ℹ️ **About Page**  
 
-- 📞 **Contact Page:**  
+- 📞 **Contact Page**  
 
 ## 🔧 Tech Stack  
 - **Frontend:** HTML, CSS  
